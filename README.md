@@ -4,8 +4,8 @@ Yoga GPT is an innovative project that leverages the power of GPT-3 API to creat
 Version 1:
 
 
-<img width="200" alt="PNG image" src="https://user-images.githubusercontent.com/90585643/229844326-38f69463-35f2-4906-b6f3-8930eee6ad31.png">
+<img width="330" alt="PNG image" src="https://user-images.githubusercontent.com/90585643/229844326-38f69463-35f2-4906-b6f3-8930eee6ad31.png">
 
 Version 2: update with more properties to change
 
-<img width="200" alt="Screenshot 2023-04-04 at 10 34 30 AM" src="https://user-images.githubusercontent.com/90585643/229844360-668bef63-ec49-4108-9b39-253785544091.png">
+<img width="330" alt="Screenshot 2023-04-04 at 10 34 30 AM" src="https://user-images.githubusercontent.com/90585643/229844360-668bef63-ec49-4108-9b39-253785544091.png">
