@@ -2,6 +2,8 @@ import Head from "next/head";
 import styles from "@/styles/Home.module.css";
 import { Button, Form, Spinner } from "react-bootstrap";
 import { FormEvent, useState } from "react";
+import yogaImg from "@/assets/images/yoga.png";
+import Image from "next/image";
 
 export default function Home() {
   const [routine, setRoutine] = useState("");
@@ -40,6 +42,9 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <h1>Yoga GPT</h1>
+        <div className={styles.mainImageContainer}>
+          <Image className={styles.mainImage} src={yogaImg} alt={"yoga pose"} fill priority/>
+        </div>
         <div>Enter a type of yoga and AI will generate a routine for you</div>
         <Form onSubmit={handleSubmit} className={styles.inputForm}>
           <Form.Group className="mb-3" controlId="level-input">
